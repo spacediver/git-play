@@ -3,7 +3,7 @@ git-play
 
 git playground
 
-some fix improved
+some fix improved even more
 
 this is where everything happens
 
